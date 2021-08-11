@@ -1,0 +1,8 @@
+i'm write all of thing about how you can use this liberary in the "main" file in comments with code
+
+this library built by oop in python version 3 
+and have files
+1- author.py this have the function Author 
+2- book have the function of Book
+3-  the library.py have the all function about using books and author in llbrary
+4- the main file is using to test all function
